@@ -6,7 +6,7 @@ A personal CV webpage built using HTML and CSS.
 
 This project showcases a simple and responsive personal curriculum vitae (CV) webpage. It provides an online representation of your professional profile, including sections like personal information, education, experience, skills, and more.
 
-![Screenshot from 2025-02-18 19-45-35](https://github.com/user-attachments/assets/ed5e4d23-8547-40ec-95ac-3432c842322b)
+![Screenshot from 2025-02-18 19-40-04](https://github.com/user-attachments/assets/4f68e0d2-c4de-4a53-84c4-788ec229d4ce)
 
 
 ## Features
